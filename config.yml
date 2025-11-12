@@ -1,0 +1,63 @@
+title: "Jardín Caótico"
+description: "Laboratorio de arte, agentes y caos controlado"
+baseurl: "" # raíz del dominio
+url: "https://tuusuario.github.io"
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Autor principal
+author:
+  name: "Juan Vargas"
+  avatar: "/assets/images/avatar.png"
+  bio: "Creando agentes inteligentes, arte generativo y música caótica."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tuusuario"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@jardincaotico"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/jardincaotico"
+
+# Colecciones (para los sub-blogs)
+collections:
+  agentes:
+    output: true
+    permalink: /agentes/:path/
+  arte:
+    output: true
+    permalink: /arte/:path/
+  musica:
+    output: true
+    permalink: /musica/:path/
+
+# Defaults por colección
+defaults:
+  - scope:
+      path: ""
+      type: "agentes"
+    values:
+      layout: single
+      author: Juan Vargas
+      category: agentes
+      permalink: /agentes/:title/
+  - scope:
+      path: ""
+      type: "arte"
+    values:
+      layout: single
+      category: arte
+      permalink: /arte/:title/
+  - scope:
+      path: ""
+      type: "musica"
+    values:
+      layout: single
+      category: musica
+      permalink: /musica/:title/
