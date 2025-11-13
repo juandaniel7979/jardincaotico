@@ -29,13 +29,13 @@ author:
 collections:
   agentes:
     output: true
-    permalink: /agentes/:path/
+    permalink: /jardincaotico/agentes/:path/
   arte:
     output: true
-    permalink: /arte/:path/
+    permalink: /jardincaotico/arte/:path/
   musica:
     output: true
-    permalink: /musica/:path/
+    permalink: /jardincaotico/musica/:path/
 
 # Defaults por colección
 defaults:
@@ -46,18 +46,18 @@ defaults:
       layout: single
       author: Juan D Vargas R
       category: agentes
-      permalink: /agentes/:title/
+      permalink: /jardincaotico/agentes/:title/
   - scope:
       path: ""
       type: "arte"
     values:
       layout: single
       category: arte
-      permalink: /arte/:title/
+      permalink: /jardincaotico/arte/:title/
   - scope:
       path: ""
       type: "musica"
     values:
       layout: single
       category: musica
-      permalink: /musica/:title/
+      permalink: /jardincaotico/musica/:title/
