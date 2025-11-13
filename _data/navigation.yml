@@ -1,9 +1,9 @@
 main:
   - title: "Inicio"
-    url: "/"
+    url: "{{ site.baseurl }}/"
   - title: "Arte"
-    url: "/jardincaotico/arte/"
+    url: "{{ site.baseurl }}/arte/"
   - title: "Agentes"
-    url: "/jardincaotico/agentes/"
+    url: "{{ site.baseurl }}/agentes/"
   - title: "Música"
-    url: "/jardincaotico/musica/"
+    url: "{{ site.baseurl }}/musica/"

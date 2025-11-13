@@ -106,7 +106,7 @@ DEPENDENCIES
   jekyll (~> 4.3.3)
   jekyll-feed
   jekyll-seo-tag
-  minimal-mistakes-jekyll
+  minimal-mistakes-jekyll (~> 4.27.0)
 
 BUNDLED WITH
    2.7.2

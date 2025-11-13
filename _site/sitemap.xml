@@ -12,10 +12,10 @@
 <loc>http://localhost:4000/jardincaotico/arte/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/jardincaotico/musica/</loc>
+<loc>http://localhost:4000/jardincaotico/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/jardincaotico/</loc>
+<loc>http://localhost:4000/jardincaotico/musica/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/jardincaotico/agentes/</loc>
