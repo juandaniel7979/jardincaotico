@@ -3,7 +3,7 @@ description: "Laboratorio de arte, agentes y caos controlado"
 url: "https://juandaniel7979.github.io"
 baseurl: "/jardincaotico" # raíz del dominio
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
 plugins:
   - jekyll-feed
