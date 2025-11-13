@@ -1,7 +1,7 @@
 title: "Jardín Caótico"
 description: "Laboratorio de arte, agentes y caos controlado"
-baseurl: "" # raíz del dominio
-url: "https://tuusuario.github.io"
+url: "https://juandaniel7979.github.io"
+baseurl: "/jardincaotico" # raíz del dominio
 
 theme: minimal-mistakes-jekyll
 
@@ -11,19 +11,19 @@ plugins:
 
 # Autor principal
 author:
-  name: "Juan Vargas"
+  name: "Juan Daniel Vargas Ramírez"
   avatar: "/assets/images/avatar.png"
   bio: "Creando agentes inteligentes, arte generativo y música caótica."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/tuusuario"
+      url: "https://github.com/juandaniel7979"  
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/@jardincaotico"
+      url: "https://www.youtube.com/channel/UCYjIkXtOF8r3xFModvdVePQ"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/jardincaotico"
+      url: "https://www.instagram.com/jardincaotico/"
 
 # Colecciones (para los sub-blogs)
 collections:
@@ -44,7 +44,7 @@ defaults:
       type: "agentes"
     values:
       layout: single
-      author: Juan Vargas
+      author: Juan D Vargas R
       category: agentes
       permalink: /agentes/:title/
   - scope:

@@ -7,7 +7,7 @@ author_profile: true
 Bienvenido al **Jardín Caótico** 🌿  
 Un espacio donde conviven los proyectos de arte, ciencia y tecnología.
 
-- 🧠 [Agentes Inteligentes](/agentes/)  
-- 🎨 [Arte Generativo](/arte/)  
-- 🎧 [Música & Visuales](/musica/)  
-- 📚 [Academia y Papers](/academia/)
+- 🧠 [Agentes Inteligentes](/jardincaotico/agentes/)  
+- 🎨 [Arte Generativo](/jardincaotico/arte/)  
+- 🎧 [Música & Visuales](/jardincaotico/musica/)  
+- 📚 [Academia y Papers](/jardincaotico/academia/)

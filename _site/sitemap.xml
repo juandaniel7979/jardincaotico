@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/jardincaotico/agentes/diario/progreso/2025/11/11/dia-1-introduccion.html</loc>
+<lastmod>2025-11-11T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/jardincaotico/musica/diario/progreso/2025/11/11/dia-1-introduccion.html</loc>
+<lastmod>2025-11-11T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/jardincaotico/arte/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/jardincaotico/musica/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/jardincaotico/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/jardincaotico/agentes/</loc>
+</url>
+</urlset>

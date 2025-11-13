@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/jardincaotico/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/jardincaotico/" rel="alternate" type="text/html" /><updated>2025-11-12T21:29:21-05:00</updated><id>http://localhost:4000/jardincaotico/feed.xml</id><title type="html">Jardín Caótico</title><subtitle>Laboratorio de arte, agentes y caos controlado</subtitle><author><name>Juan Daniel Vargas Ramírez</name></author><entry><title type="html">Día 1 – Iniciando el proyecto de agentes inteligentes</title><link href="http://localhost:4000/jardincaotico/musica/diario/progreso/2025/11/11/dia-1-introduccion.html" rel="alternate" type="text/html" title="Día 1 – Iniciando el proyecto de agentes inteligentes" /><published>2025-11-11T00:00:00-05:00</published><updated>2025-11-11T00:00:00-05:00</updated><id>http://localhost:4000/jardincaotico/musica/diario/progreso/2025/11/11/dia-1-introduccion</id><content type="html" xml:base="http://localhost:4000/jardincaotico/musica/diario/progreso/2025/11/11/dia-1-introduccion.html"><![CDATA[<p>Hoy comienzo la documentación del proyecto <strong>Agentes Inteligentes</strong>, inspirado en el concepto de <em>Vegapunks y satélites</em>, con una arquitectura modular de agentes especializados.</p>
+
+<h3 id="️-objetivo-del-día">⚙️ Objetivo del día</h3>
+<ul>
+  <li>Configurar el entorno base con Jekyll y el tema Minimal Mistakes.</li>
+  <li>Crear la estructura para ir documentando avances, pruebas, y videos.</li>
+</ul>
+
+<h3 id="-idea-general">🧠 Idea general</h3>
+<p>El cuerpo principal (Stella) coordina los satélites (agentes).<br />
+Cada uno puede ejecutar tareas programadas y compartir resultados en tiempo real.</p>
+
+<hr />
+
+<h3 id="-video-de-referencia">🎥 Video de referencia</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TU_VIDEO_ID" frameborder="0" allowfullscreen=""></iframe>
+
+<hr />
+
+<h3 id="️-imagen-de-prueba">🖼️ Imagen de prueba</h3>
+<p><img src="../assets/images/setup_preview.jpg" alt="Estructura base" /></p>
+
+<hr />
+
+<blockquote>
+  <p>“Un agente bien definido es una extensión de la mente.” – JV</p>
+</blockquote>]]></content><author><name>Juan Vargas</name></author><category term="musica" /><category term="diario" /><category term="progreso" /><category term="agentes" /><category term="inteligencia" /><category term="jekyll" /><category term="minimal-mistakes" /><summary type="html"><![CDATA[Hoy comienzo la documentación del proyecto Agentes Inteligentes, inspirado en el concepto de Vegapunks y satélites, con una arquitectura modular de agentes especializados.]]></summary></entry><entry><title type="html">Día 1 – Iniciando el proyecto de agentes inteligentes</title><link href="http://localhost:4000/jardincaotico/agentes/diario/progreso/2025/11/11/dia-1-introduccion.html" rel="alternate" type="text/html" title="Día 1 – Iniciando el proyecto de agentes inteligentes" /><published>2025-11-11T00:00:00-05:00</published><updated>2025-11-11T00:00:00-05:00</updated><id>http://localhost:4000/jardincaotico/agentes/diario/progreso/2025/11/11/dia-1-introduccion</id><content type="html" xml:base="http://localhost:4000/jardincaotico/agentes/diario/progreso/2025/11/11/dia-1-introduccion.html"><![CDATA[<p>Hoy comienzo la documentación del proyecto <strong>Agentes Inteligentes</strong>, inspirado en el concepto de <em>Vegapunks y satélites</em>, con una arquitectura modular de agentes especializados.</p>
+
+<h3 id="️-objetivo-del-día">⚙️ Objetivo del día</h3>
+<ul>
+  <li>Configurar el entorno base con Jekyll y el tema Minimal Mistakes.</li>
+  <li>Crear la estructura para ir documentando avances, pruebas, y videos.</li>
+</ul>
+
+<h3 id="-idea-general">🧠 Idea general</h3>
+<p>El cuerpo principal (Stella) coordina los satélites (agentes).<br />
+Cada uno puede ejecutar tareas programadas y compartir resultados en tiempo real.</p>
+
+<hr />
+
+<h3 id="-video-de-referencia">🎥 Video de referencia</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TU_VIDEO_ID" frameborder="0" allowfullscreen=""></iframe>
+
+<hr />
+
+<h3 id="️-imagen-de-prueba">🖼️ Imagen de prueba</h3>
+<p><img src="../assets/images/setup_preview.jpg" alt="Estructura base" /></p>
+
+<hr />
+
+<blockquote>
+  <p>“Un agente bien definido es una extensión de la mente.” – JV</p>
+</blockquote>]]></content><author><name>Juan Vargas</name></author><category term="agentes" /><category term="diario" /><category term="progreso" /><category term="agentes" /><category term="inteligencia" /><category term="jekyll" /><category term="minimal-mistakes" /><summary type="html"><![CDATA[Hoy comienzo la documentación del proyecto Agentes Inteligentes, inspirado en el concepto de Vegapunks y satélites, con una arquitectura modular de agentes especializados.]]></summary></entry></feed>
